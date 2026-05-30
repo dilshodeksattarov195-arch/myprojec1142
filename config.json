@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helperponnect",
+        "uuid": 8791116,
+        "checksum": "mp7zm9"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
